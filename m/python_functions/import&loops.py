@@ -20,6 +20,9 @@ print ('Space.')
 for x in range (20, -4, -2):
     print('Bye, '+str(x)+'.')
 
+random = random.randint (1,100)
+print (random)
+
 
 
 
